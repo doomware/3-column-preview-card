@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/3-column-preview-card/static/css/main.0d81435b.chunk.css",
+    "main.js": "/3-column-preview-card/static/js/main.13a75ca9.chunk.js",
+    "main.js.map": "/3-column-preview-card/static/js/main.13a75ca9.chunk.js.map",
+    "runtime-main.js": "/3-column-preview-card/static/js/runtime-main.81ad1d97.js",
+    "runtime-main.js.map": "/3-column-preview-card/static/js/runtime-main.81ad1d97.js.map",
+    "static/js/2.8843e773.chunk.js": "/3-column-preview-card/static/js/2.8843e773.chunk.js",
+    "static/js/2.8843e773.chunk.js.map": "/3-column-preview-card/static/js/2.8843e773.chunk.js.map",
+    "static/js/3.baf4a3a3.chunk.js": "/3-column-preview-card/static/js/3.baf4a3a3.chunk.js",
+    "static/js/3.baf4a3a3.chunk.js.map": "/3-column-preview-card/static/js/3.baf4a3a3.chunk.js.map",
+    "index.html": "/3-column-preview-card/index.html",
+    "static/css/main.0d81435b.chunk.css.map": "/3-column-preview-card/static/css/main.0d81435b.chunk.css.map",
+    "static/js/2.8843e773.chunk.js.LICENSE.txt": "/3-column-preview-card/static/js/2.8843e773.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81ad1d97.js",
+    "static/js/2.8843e773.chunk.js",
+    "static/css/main.0d81435b.chunk.css",
+    "static/js/main.13a75ca9.chunk.js"
+  ]
+}
